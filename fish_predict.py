@@ -1,5 +1,5 @@
 from ultralytics import YOLO
 
-model =
+model = asdfasfdasd
 
 results = model.predict(sorce='fish.jpg', show=False, save=True,
